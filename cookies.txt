@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.parallelcoin.info	TRUE	/	FALSE	1999999999	__cfduid	d4efbbb156a3237ba2e9f1936a6b4cb1e1525467450
+
